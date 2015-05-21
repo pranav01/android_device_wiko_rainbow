@@ -1,0 +1,14 @@
+[
+  {
+    "remote" : "github",
+    "repository": "Al3XKOoL/android_kernel_wiko_rainbow",
+    "target_path": "kernel/mediatek/rainbow",
+    "revision": "master"
+  },
+  {
+    "remote" : "github",
+    "repository": "Al3XKOoL/android_vendor_wiko_rainbow",
+    "target_path": "vendor/wiko/rainbow",
+    "revision": "master"
+  }
+]
